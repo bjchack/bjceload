@@ -1,1 +1,22 @@
-[]
+[
+  [
+  {
+    "code": "SMART50",
+    "desc": "1GB all sites + apps",
+    "days": "1 Day",
+    "price": 50
+  },
+  {
+    "code": "SMART99",
+    "desc": "6GB all sites + bonus data",
+    "days": "7 Days",
+    "price": 99
+  },
+  {
+    "code": "SMART149",
+    "desc": "10GB all sites + apps",
+    "days": "30 Days",
+    "price": 149
+  }
+  ]
+]
